@@ -9,4 +9,6 @@ https://docs.djangoproject.com/en/1.8/intro/tutorial03/ -> Completado
 
 https://docs.djangoproject.com/en/1.8/intro/tutorial04/ -> Completado
 
-https://docs.djangoproject.com/en/1.8/intro/tutorial05/
+https://docs.djangoproject.com/en/1.8/intro/tutorial05/ -> Completado
+
+https://docs.djangoproject.com/en/1.8/intro/tutorial06/ -> Completado
